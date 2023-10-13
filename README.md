@@ -8,4 +8,7 @@ It is designed to run against [Clickhouse](https://clickhouse.com) which will co
 
 Details about the project are shared here - https://ensembleanalytics.io/blog/how-we-built-crypto-platform
 
-![Dashboard Image](https://github.com/ensembleanalytics/clickhouse-crypto-dashboard/blob/[branch]/timeflow-crypto-1.png?raw=true)
+![Dashboard Image](https://github.com/ensembleanalytics/clickhouse-crypto-dashboard/blob/main/timeflow-crypto-1.png?raw=true)
+![Dashboard Image](https://github.com/ensembleanalytics/clickhouse-crypto-dashboard/blob/main/timeflow-crypto-2.png?raw=true)
+![Dashboard Image](https://github.com/ensembleanalytics/clickhouse-crypto-dashboard/blob/main/timeflow-crypto-3.png?raw=true)
+![Dashboard Image](https://github.com/ensembleanalytics/clickhouse-crypto-dashboard/blob/main/timeflow-crypto-4.png?raw=true)
